@@ -2041,7 +2041,7 @@ $wgConf->settings = array(
 		'+vsfan' =>  array( 'gif', 'ico', 'jpeg', 'jpg', 'ogg', 'png', 'svg', 'pdf', 'djvu', 'webp' ),
 		'+vandalismwikiwiki' => array('tiff', 'tif', 'webp', 'xcf', 'mid', 'ogv', 'oga', 'flac', 'opus', 'wav', 'webm'),
 		'+wisdomwikiwiki' => array( 'docx', 'doc', 'odt', 'ods', 'odp', 'xls', 'xlsx', 'txt', 'rtf', 'zip'),
-		'+bsaikatsu' => array( 'oga', 'ogx', 'pdf', 'ogv'),
+		'+bsaikatsu' => array( 'oga', 'ogx', 'ogv'),
 	),
 	'wgUseInstantCommons' => array(
 		'default' => true,
